@@ -3,8 +3,8 @@
 
 ### About Me
 
-🎓 I'm currently a software development student, full stack capable, but frontend is where I feel most confident and passionate.
-🤝 I'm open to mentorship and communication, with a preference for self-directed learning.
+🎓 I'm currently a software development student, full stack capable, but frontend is where I feel most confident and passionate. <br>
+🤝 I'm open to mentorship and communication, with a preference for self-directed learning. <br>
 
 ---
 
